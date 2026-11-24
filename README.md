@@ -1,10 +1,12 @@
 # PDFVault
 
-<img src="Wpf/Assets/PDFVault.svg" width="80" alt="PDFVault icon">
+<p align="center">
+  <img src="Wpf/Assets/PDFVault.svg" width="80" alt="PDFVault icon">
+</p>
 
 PDFVault is a Windows desktop app for creating, viewing, and editing password-protected image galleries. It works locally and doesn’t require an account.
 
-**[Download PDFVault for Windows](https://github.com/ravhirizaldi/PDFVault/releases/latest)** · Created by [Ravhi Rizaldi](https://github.com/ravhirizaldi)
+**[Download PDFVault for Windows](https://github.com/ravhirizaldi/PDFVault/releases/latest)**
 
 ![PDFVault gallery with sample artwork](screenshots/gallery.png)
 
